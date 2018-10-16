@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.parigi {
+  width: 25vw;
+  height: 30vh;
+  border: solid 1px black;
+  background: url('parigi.jpg');
+  background-size: cover;
+}
+
+.santorini {
+  width: 25vw;
+  height: 30vh;
+  border: solid 1px black;
+  background: url('santorini.jpg');
+  background-size: cover;
+}
+
+.singapore {
+  width: 25vw;
+  height: 30vh;
+  border: solid 1px black;
+  background: url('singapore.jpg');
+  background-size: cover;
+}
+
+.tokyo {
+  width: 25vw;
+  height: 30vh;
+  border: solid 1px black;
+  background: url('tokyo.jpg');
+  background-size: cover;
+}
+
+.newyork {
+  width: 25vw;
+  height: 30vh;
+  border: solid 1px black;
+  background: url('newyork.jpg');
+  background-size: cover;
+}
+
+.dubai {
+  width: 25vw;
+  height: 30vh;
+  border: solid 1px black;
+  background: url('dubai.jpg');
+  background-size: cover;
+}
+
+.layover {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+
+.testo {
+  text-align: center;
+  font-size: 5vh;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.contenitore2 {
+  display: inline-block;
+}
+
+.contenitore1 {
+  display: inline-block;
+}
